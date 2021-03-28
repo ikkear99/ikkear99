@@ -1,0 +1,4 @@
+- 👋 Hi, I’m DuyDien
+- 👀 I’m interested in the field of AI, Machine Learning, and Deep Learning.
+- 🌱 I’m currently working as an AI Engineer at TAPIT, Da Nang, Viet Nam
+- 📫 Reach me at duydien17031999@gmail.com
