@@ -1,4 +1,4 @@
 - 👋 Hi, I’m DuyDien
 - 👀 I’m interested in the field of AI, Machine Learning, and Deep Learning.
-- 🌱 
+- 🌱 I’m currently working at BAP Software
 - 📫 Reach me at duydien17031999@gmail.com
