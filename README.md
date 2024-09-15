@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DuyDien
-- 👀 I’m interested in the field of AI, Machine Learning, Deep Learning and Web develop with Python language.
-- ⛄ I currently working at D-soft
-- 📫 Reach me at dientd1703@gmail.com
+👋 Hi, I’m Duy Dien
+👀 I’m interested in the field of Web Development with Python.
+⛄ I am currently working in Vietnam.
+📫 Reach me at dientd1703@gmail.com.
